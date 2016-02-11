@@ -107,10 +107,8 @@ header
 .gift-image
 {
     border: 1px solid #ccc;
-    //width: 400px;
-    //height: 400px;
 }
 .logo
 {
-
+    margin-left: 15%;
 }
